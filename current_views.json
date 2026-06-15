@@ -1,0 +1,147 @@
+{
+    "data": {
+        "planned": [
+            {
+                "category_id": 13,
+                "type": 2,
+                "claim": 1,
+                "required_units": 0.0,
+                "id": "01K8X31CKQSSSFVJG7XMB8PTVS"
+            },
+            {
+                "category_id": 13,
+                "type": 2,
+                "claim": 1,
+                "required_units": 240,
+                "id": "01K8X32X3YS1RSEK28D0GTPS4G"
+            },
+            {
+                "category_id": 13,
+                "type": 2,
+                "claim": 1,
+                "required_units": 360,
+                "id": "01K8X340VJBXXCYP7VT336C6YK"
+            },
+            {
+                "category_id": 13,
+                "type": 2,
+                "claim": 1,
+                "required_units": 480,
+                "id": "01K8X37R19WHHSG8EKC1WG4K13"
+            },
+            {
+                "category_id": 13,
+                "type": 1,
+                "claim": 1,
+                "usernames": [
+                    "ricoy",
+                    "dilanzito"
+                ],
+                "required_units": 120,
+                "id": "01K8X3P1D3AE2PNEBP1VJCVXAR"
+            },
+            {
+                "category_id": 13,
+                "type": 1,
+                "claim": 1,
+                "usernames": [
+                    "trainwreckstv",
+                    "lifestomper",
+                    "templetaps",
+                    "posty"
+                ],
+                "required_units": 0.0,
+                "id": "01K8X3QPGA4Q0TMZ4DH9AWCAG9"
+            },
+            {
+                "category_id": 13,
+                "type": 1,
+                "claim": 1,
+                "usernames": [
+                    "serwinter",
+                    "omni"
+                ],
+                "required_units": 0.0,
+                "id": "01K8X3T8Q3Z942YKJF6T42BYJX"
+            },
+            {
+                "category_id": 13,
+                "type": 1,
+                "claim": 1,
+                "usernames": [
+                    "winnie",
+                    "coconutb"
+                ],
+                "required_units": 0.0,
+                "id": "01K8X3Y1NNRT3JRT7PG38DQYR3"
+            },
+            {
+                "category_id": 13,
+                "type": 1,
+                "claim": 1,
+                "usernames": [
+                    "hutnik",
+                    "hjune"
+                ],
+                "required_units": 0.0,
+                "id": "01K8X4DZ25CZRY5HRTQA0NBP58"
+            },
+            {
+                "category_id": 13,
+                "type": 1,
+                "claim": 1,
+                "usernames": [
+                    "xqc",
+                    "mendo"
+                ],
+                "required_units": 0.0,
+                "id": "01K8X4EKY4VJDXRMXEKJVK59NX"
+            },
+            {
+                "category_id": 13,
+                "type": 1,
+                "claim": 1,
+                "usernames": [
+                    "welyn",
+                    "picco"
+                ],
+                "required_units": 0.0,
+                "id": "01K8X4FFRP48SMH6N773K470ZH"
+            },
+            {
+                "category_id": 13,
+                "type": 1,
+                "claim": 1,
+                "usernames": [
+                    "agustabell212",
+                    "panpots"
+                ],
+                "required_units": 0.0,
+                "id": "01K8X4G3Q2B2T1APAVXF1JRYT6"
+            },
+            {
+                "category_id": 13,
+                "type": 1,
+                "claim": 1,
+                "usernames": [
+                    "blazed",
+                    "spoonkid"
+                ],
+                "required_units": 0.0,
+                "id": "01K8X4GW6QNTW3V2ARF9R6WFPD"
+            },
+            {
+                "category_id": 13,
+                "type": 1,
+                "claim": 1,
+                "usernames": [
+                    "qaixx",
+                    "oilrats"
+                ],
+                "required_units": 0.0,
+                "id": "01K8X4HX2S6XFE2ZMB4JBEQQEV"
+            }
+        ],
+        "finished": []
+    }
+}
